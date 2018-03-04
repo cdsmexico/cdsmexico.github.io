@@ -44,10 +44,10 @@ avatar: "/img/roncar.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0dd0db"
+navbar-col: "#77f1ff"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#d5e9ea"
+page-col: "#e6f6f7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
