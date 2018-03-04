@@ -23,6 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
+  Posts: "posts"
   About Me: "aboutme"
   Recursos:
     - Google: "https://google.com"
