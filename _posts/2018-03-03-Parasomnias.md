@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Parasomnias
+subtitle: Que son y como se tratan
 bigimg: /img/path.jpg
 tags: [parasomina, sonambulo, pesadillas]
 ---
