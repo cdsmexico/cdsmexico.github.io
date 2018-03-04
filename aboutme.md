@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Acerca de mi
 subtitle: Razones por las que soy el más chido
 ---
