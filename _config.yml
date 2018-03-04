@@ -24,7 +24,7 @@ description: Informacion sobre el diagnóstico y tratamiento de la Apnea del Sue
 # List of links in the navigation bar
 navbar-links:
   Posts: "posts"
-  Prueba: "otrapag.html"
+  #Prueba: "otrapag.html"
   About Me: "aboutme"
   Recursos:
     - Google: "https://google.com"
