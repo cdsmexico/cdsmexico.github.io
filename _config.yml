@@ -17,7 +17,7 @@ baseurl: ""
 title: Centro de Diagnóstico del Sueño
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Informacion sobre el diagnóstico y tratamiento de la Apnea del Sueño
 
 # --- Navigation bar options --- #
 
@@ -87,7 +87,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Centro de Diagnóstico del Sueño"  # eg. "https://cdsmexico.github.io/"
 
 # --- Web Statistics Section --- #
 
