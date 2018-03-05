@@ -23,8 +23,8 @@ description: Informacion sobre el diagnóstico y tratamiento de la Apnea del Sue
 
 # List of links in the navigation bar
 navbar-links:
-  Posts: "posts"
-  #Prueba: "otrapag.html"
+  Soy Doctor: "posts"
+  Soy Paciente: "prueba"
   About Me: "aboutme"
   Recursos:
     - Google: "https://google.com"
@@ -66,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Francisco Herrera
+  name: Centro de Diagnóstico del Sueño
   
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
