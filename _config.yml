@@ -26,7 +26,7 @@ navbar-links:
   Soy Doctor: "Dr"
   Soy Paciente: "Px"
   Acerca de CDS México: "aboutme"
-  Contacto: "x"
+  Contacto: "contacto"
   Test: "tags/#test"
   Recursos:
     - Google: "https://google.com"
