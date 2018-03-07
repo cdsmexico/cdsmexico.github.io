@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿Quien es? 
+title: ¿Quiénes somos? 
 subtitle: CDM México
 ---
 
