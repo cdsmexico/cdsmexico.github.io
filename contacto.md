@@ -7,12 +7,15 @@ gh-badge: []
 tags: [consulta, citas, contacto, correo, mail, telefono]
 ---
 
-## Contacto
+## Consultas y Citas
+### Horario de Atención 
+##### Lunes a Viernes de 10:00 - 20:00 y Fines de semana de 10:00 - 14:00
 
 ### Teléfono
 
 {: .box-note}
 **Dr. Herrea** 5534001659
+
 {: .box-note}
 **Dr. Hoyo** 7223941463
 
