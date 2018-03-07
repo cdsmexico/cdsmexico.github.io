@@ -50,7 +50,7 @@ Debido a que los desórdenes del despertar son relativamente infrecuentes luego 
 **Tratamiento:** Precauciones simples deben ser tomadas en cuenta para tener seguridad en las personas con éstos desórdenes. Ayuda por ende liberar la habitación de obstrucciones, asegurar ventanas, dormir a la altura del piso, instalar seguros a las puertas y ventanas de manera que se genere seguridad para el individuo y la familia.
 En casos severos que generan injuria o violencia relacionada, alimentación excesiva o perturbación a otras personas; esto merece intervención médica con prescripción de drogas o modificación del comportamiento a través de la **hipnosis** o **terapias de relajación mental**.
 
-##Otras parasomnias
+**Otras parasomnias**
 
 Mientras que la gran mayoría de los complejos comportamientos relacionados al dormir son debidos a los desórdenes del despertar, muchas otras condiciones pueden ser más preocupantes o perturbantes para aquellos que las experimentan.
 
@@ -68,6 +68,6 @@ Mientras que la gran mayoría de los complejos comportamientos relacionados al d
 
 **Hablar durante el sueño (somniloquios):** es un fenómeno común y normal y no merece manejo médico mayor.
 
-##¿Cuándo solicitar ayuda a un profesional de la salud?
+**¿Cuándo solicitar ayuda a un profesional de la salud?**
 
 Ya que la mayoría de estos comportamientos relacionados al sueño son debido a desordenes del despertar que no tienen mayor importancia médica, la evaluación médica y tratamiento suelen no ser necesarios. Sin embargo, la atención debe ser considerada si estos comportamientos debidos a parasomnias son **violentos** con posibilidad de generar lesiones físicas, si son perturbadores para otros miembros del hogar o dan como resultado somnolencia excesiva durante el día siguiente. En estos casos es recomendable acudir a un médico especialista en **Medicina del Sueño**.
