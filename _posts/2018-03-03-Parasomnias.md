@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Parasomnias
-subtitle: Que son y como se tratan
-bigimg: /img/path.jpg
+subtitle: Qué son y cómo se tratan
+bigimg: /img/parasomnia.jpg
 tags: [parasomina, sonambulo, pesadillas]
 ---
 
