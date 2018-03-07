@@ -27,6 +27,7 @@ navbar-links:
   Soy Paciente: "Px"
   Acerca de CDS México: "aboutme"
   Contacto: "x"
+  Parasomnia: "tags/#parasomina"
   Recursos:
     - Google: "https://google.com"
     - Estadisticas: "http://www.markdowntutorial.com/"
