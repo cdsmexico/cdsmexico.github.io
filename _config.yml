@@ -25,6 +25,7 @@ description: Informacion sobre el diagnóstico y tratamiento de la Apnea del Sue
 navbar-links:
   FAQ: "FAQ"
   Soy Doctor: "doctores/index.html"
+  Soy Paciente: "pacientes/index.html"
   Acerca de CDS México: "aboutme"
   Contacto: "contacto"
   Recursos:
