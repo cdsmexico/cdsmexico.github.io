@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Información para Medicos y Personal de Salud 
+title: Información para Pacientes y Médicos 
 subtitle: Preguntas Frecuentes  
 posted on: 03/03/2018
 ---
