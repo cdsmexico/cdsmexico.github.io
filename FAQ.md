@@ -5,27 +5,27 @@ subtitle: Preguntas Frecuentes
 posted on: 03/03/2018
 ---
 
-**¿Qué es el Síndrome de Apnea Obstructiva del Sueño?
+**¿Qué es el Síndrome de Apnea Obstructiva del Sueño?**
 
 >Es una enfermedad caracterizada por periodos de obstrucción total o parcial de la vía aérea durante el sueño. Esta obstrucción es la causante de la apnea o hipoapnea.
 
-**¿Es peligroso tener SAOS?
+**¿Es peligroso tener SAOS?**
 
 >Si, esta enfermedad no solo afecta nuestro descanso, también es responsable de otros trastornos en el organismo que pueden causar enfermedades.
 
-**¿Cuáles son los síntomas del SAOS?
+**¿Cuáles son los síntomas del SAOS?**
 
 >El síntoma mas común es el ronquido el cual suele ser independiente de la posición corporal. Los pacientes con SAOS suelen despertar varias veces por la noche para orinar y por el día presentan cansancio en ocasiones excesivo.
 
-**¿Cómo puedo saber si tengo SAOS?
+**¿Cómo puedo saber si tengo SAOS?**
 
 >El diagnóstico de SAOS se hace a través de un estudio llamado polisomnografía. Antes de hacer este estudio es necesario contestar algunos cuestionarios para determinar si el problema actual podría no ser SAOS.
 
-**¿Qué es una Polisomnografía?
+**¿Qué es una Polisomnografía?**
 
 >Es el monitoreo continuo de varios parámetros durante el sueño para determinar la presencia o ausencia de ciertos trastornos del sueño somo el Síndrome de Apnea Obstructiva del Sueño (SAOS)
 
-**¿Cómo se trata el SAOS?
+**¿Cómo se trata el SAOS?**
 
 >Evitando que la vía aérea se colapse. Para esto hay que mantener una presión positiva en la vía aérea. Esto se logra a través de un CPAP (Presión positiva continua en la vía aérea). Actualmente existen en el mercado muchos modelos los cuales permiten un descanso optimo tanto para el paciente como la pareja. 
 
