@@ -5,45 +5,58 @@ subtitle: Preguntas Frecuentes
 posted on: 03/03/2018
 ---
 
-**¿Cuáles son las ventajas de una buena calidad de sueño?**
->El sueño es una necesidad vital, si uno no duerme no se encontrará en una buena condición física ni mental. Mientras uno duerme sus músculos y partes de su cerebro descansan y almacenan energía, pero otros órganos están en gran actividad; por ejemplo, sustancias que permiten a los niños crecer. Por ello, para que todas sus funciones fisiológicas se produzcan con normalidad, usted necesita dicho descanso.
+**¿Qué es el Síndrome de Apnea Obstructiva del Sueño?
+
+>Es una enfermedad caracterizada por periodos de obstrucción total o parcial de la vía aérea durante el sueño. Esta obstrucción es la causante de la apnea o hipoapnea.
+
+**¿Es peligroso tener SAOS?
+
+>Si, esta enfermedad no solo afecta nuestro descanso, también es responsable de otros trastornos en el organismo que pueden causar enfermedades.
+
+**¿Cuáles son los síntomas del SAOS?
+
+>El síntoma mas común es el ronquido el cual suele ser independiente de la posición corporal. Los pacientes con SAOS suelen despertar varias veces por la noche para orinar y por el día presentan cansancio en ocasiones excesivo.
+
+**¿Cómo puedo saber si tengo SAOS?
+
+>El diagnóstico de SAOS se hace a través de un estudio llamado polisomnografía. Antes de hacer este estudio es necesario contestar algunos cuestionarios para determinar si el problema actual podría no ser SAOS.
+
+**¿Qué es una Polisomnografía?
+
+>Es el monitoreo continuo de varios parámetros durante el sueño para determinar la presencia o ausencia de ciertos trastornos del sueño somo el Síndrome de Apnea Obstructiva del Sueño (SAOS)
+
+**¿Cómo se trata el SAOS?
+
+>Evitando que la vía aérea se colapse. Para esto hay que mantener una presión positiva en la vía aérea. Esto se logra a través de un CPAP (Presión positiva continua en la vía aérea). Actualmente existen en el mercado muchos modelos los cuales permiten un descanso optimo tanto para el paciente como la pareja. 
+
+**¿Por qué necesitamos dormir bien?**
+
+>El sueño es una necesidad vital. Mientras uno duerme sus músculos y partes de su cerebro regeneran la energía. A la vez otros órganos están activos; por ejemplo, se libera la hormona del crecimiento.
 
 **¿Por qué estoy cansado durante la noche o durante el día?**
 
->A una hora más o menos regular uno se siente gradualmente cansado hasta que el sueño se apodera de uno. Ello se debe a un “reloj fisiológico” que tenemos en nuestro cerebro. Es el mismo reloj que le indica que tiene hambre a la hora a la que usualmente come. Este reloj le indica sus patrones de ritmo según día o noche basado en la luz que recibe. Así pues, si se le quita o desordena este ritmo externo guiado por la luz, como por ejemplo, tras un viaje largo intercontinental, se puede experimentar el famoso “jet lag”, consulte a su médico al respecto.
+>Esto se debe al “reloj fisiológico” que tenemos en nuestro cerebro. Este reloj establece sus patrones de ritmo según luz que recibe. Si modificamos la luz percibida con luz artificial y pantallas nuestro reloj fisiológico puede cambiar.
 
-**¿Cómo es que funciona nuestro dormir?**
+**¿Cómo se construye el sueño?**
 
->El sueño nocturno está formado por cuatro o cinco ciclos de aproximadamente una hora y media, separados por períodos cortos despierto pero inconsciente. El sueño más reparador es el de los primeros ciclos, cada ciclo contiene etapas: el sueño liviano con baja actividad física, el sueño profundo, en el que el cuerpo y cerebro descansan y el sueño REM (movimientos rápidos de ojos en inglés), cuando su cerebro actúa de forma similar a cuando está despierto, es ahí cuando uno experimenta los ensueños (el “soñar”).
+>En el sueño podemos encontrar de 4 a 5 ciclos cada 1.5 horas, esos ciclos están separados por periodos cortos de inconciencia. El descanso se produce en los primeros ciclos de la noche. Cada ciclo está formado por: sueño liviano con baja actividad física, el sueño profundo (aquí el cuerpo y el cerebro descansan) y el sueño REM (movimientos rápidos de ojos en inglés). Durante el sueño REM se sueña.
 
-**¿Qué impacto tienen los trastornos del sueño?**
+**¿Cuánto tiempo tengo que dormir?**
 
->No poder conciliar un buen sueño cuando uno se va a la cama por los diferentes tipos de trastornos de sueño es difícil de sobrellevar. Durante todo el día se siente la necesidad irresistible de dormir, incluso puede quedarse dormido realizando una actividad. El cerebro no se desempeña bien, la memoria está impedida, incluso con consecuencias serias. Hay dificultad para asimilar información y seguir una conversación. Uno puede estar sensible o irritable, afectándose sus relaciones para con los demás, y eso genera más estrés, lo cual empeora su situación para la noche siguiente, formándose un círculo vicioso del tema.
-La concentración disminuida puede afectar su vida diaria, imagine por ejemplo tener estos síntomas manejando su carro. Además su estado de salud se altera cada vez más, y esto se asocia con otras enfermedades.
+>Cada persona tiene necesidades diferentes, sin embargo, se estima que un promedio de 7 a 8 horas es suficiente para lograr un descanso adecuado.
 
-**¿Cuánto tiempo debe uno dormir?**
+**¿Cómo puedo lograr tener un buen descanso?**
 
->El sueño normal, como se ha explicado, consiste en cuatro a cinco ciclos de 90 minutos cada uno, por lo que son 7 a 8 horas de sueño. Pero algunas personas pueden ser grandes dormilones
-necesitando en realidad más de nueve horas en la cama, y a otras, en cambio, les es suficiente 6 horas. Ello es por variaciones de cada uno en su sueño liviano, puesto que el profundo (fase reparadora) es la misma en todos. Con la edad la cantidad y la calidad del sueño disminuyen.
+>Esto se puede lograr a través de la Higiene del sueño. La higiene del sueño consiste en modificar factores externos que alteran o dificultan el descanso de tal forma que se logre un mejor sueño y descanso. Por ejemplo. Evitar siestas prolongadas por la tarde, tener una habitación tranquila, evitar ver la televisión en la cama, etc.
 
-**¿Cómo es el Insomnio, el Apnea y las Parasomnias?**
+**¿Cómo afectan mi vida los trastornos del sueño?**
 
->El Insomnio es el más conocido de todos, es más frecuente en mujeres. Es una percepción reiterada de dificultad de conciliar el sueño, un sueño insuficiente, insatisfactorio y no reparador, pudiendo deberse o no a una falta real del sueño. Uno se despierta como si no hubiera dormido.
-Por otro lado el despertarse como jadeando con falta de aire es uno de los síntomas de Apnea del Sueño, más frecuente en hombres y por encima de los 50 años, asociado además al sobrepeso, este último puede tener consecuencias severas en el sistema cardiovascular, asociándose a infartos cardiacos y cerebrales.
-Las Parasomnias son, por ejemplo hablar mientras uno duerme, alucinaciones o calambres, rechinar los dientes al dormir, sonambulismo, gritar de miedo por las noches estando dormido, pesadillas terribles, etc. Todos estos pueden reducir su capacidad de descansar, por lo que son importantes de observar y manejar. Consulte con su médico.
+>Sufrir un trastorno del sueño no solo nos afecta al desempeño físico, nuestra capacidad cognitiva y emocional se ven alteradas. Durante el día sentimos la necesidad de dormir, e incluso, podemos quedar dormidos en situaciones poco habituales. También nuestra memoria falla y la velocidad de reacción se ve disminuida.
 
-**¿Qué es lo que puede causar un trastorno del sueño?**
+**¿Por qué ocurren los trastornos del sueño?**
 
->Hay varios factores involucrados, pero se sabe, por ejemplo que la depresión, y algunas enfermedades hormonales, neurológicas o cardiovasculares pueden afectar el sueño aumentando la facilidad para despertarse.
-Otro factor es el dolor, que impide conciliar el sueño. El estrés también es uno de los más comunes, éste no siempre es fácil de identificar. Influyen también el consumo de estimulantes como la cafeína, algunas medicinas, dormir en un lugar nuevo o comer una comida pesada muy tarde en la noche.
+>Los trastornos del sueño pueden ser causados por factores internos y externos. Los factores internos son aquellos que son propios del cuerpo (enfermedades, cambios hormonales, etc) y los trastornos externos son aquellos causados por factores que podemos modificar (consumo de sustancias, temperatura, iluminación, etc.)
 
-**¿Qué medidas se pueden tomar?**
+**¿Cuál es el tratamiento más efectivo para los trastornos del sueño?**
 
->La famosa higiene del sueño depende de su estilo de vida en general, ello sirve para manejar los trastornos de sueño en parte. Durante el día es conveniente hacer ejercicio pero no al final del día, prestar atención a la medicación que se toma (consulte con su médico), reducir el consumo de estimulantes para la tarde, evitar siestas prolongadas en la tarde, así como situaciones estresantes. Durante la noche evite actividades dinámicas como deportes o esfuerzos intelectuales, evite comidas pesadas, no beba mucho líquido, acuéstese y levántese a horas fijas.
-Ocúpese de su dormitorio, que sea tranquilo, relajante, seguro y confortable, aíslese de ruidos y luces, aire y humedifique su dormitorio, idealmente manténgalo en una temperatura entre 16 y 18 grados. Esconda toda pantalla de reloj que pueda generar estrés y mantenga su cama en buenas condiciones.
-Recuerde que la cama no es para otra actividad sino solo para dormir, si es que no pudiese conciliar el sueño, relájese, levántese de su cama, haga una actividad no estresante como leer su libro favorito y apenas aparezca el sueño, que llegará, vuelva a su cama en las mismas condiciones.
-En la mañana siguiente al despertar levántese de la cama, pues si se vuelve a dormir puede despertar bruscamente en medio de uno de los ciclos normales del sueño. Al levantarse tome su tiempo para volver a la realidad, expóngase gradualmente a la luz, preferentemente del día, así restablecerá correctamente su “reloj fisiológico”, estírese para aflojar y calentar sus músculos, bostece tanto como quiera para oxigenarse, dese una ducha vigorizante y coma un buen desayuno que es, en realidad, el 25% de su requerimiento de calorías en el día.
-
-**¿Son efectivos los tratamientos para los trastornos del sueño?**
-
->Existen los hábitos y rituales que ayudan a prepararse para dormir, así como sentarse en una mesa puede abrir el apetito, realice rituales que usted acostumbra, como por ejemplo, tomar un vaso de leche previo, cepillarse los dientes previamente, tomarse una ducha antes de dormir, etc. Del mismo modo hay diversas técnicas de relajamiento, mientras no consistan en un esfuerzo físico, son recomendables
+>No existe un solo tratamiento para todos los trastornos del sueño, lo ideal es que su médico determine cuál es el tratamiento más adecuado para Usted.
