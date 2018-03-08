@@ -27,7 +27,6 @@ navbar-links:
   Soy Doctor: "doctores/index.html"
   Acerca de CDS México: "aboutme"
   Contacto: "contacto"
-  Test: "tags/#test"
   Recursos:
     - Google: "https://google.com"
     - Estadisticas: "http://www.markdowntutorial.com/"
