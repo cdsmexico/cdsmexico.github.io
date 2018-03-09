@@ -4,6 +4,7 @@ category: pacientes
 title: El Sueño
 subtitle: y el Corazón
 bigimg: /img/cuarto.jpg
+image: /img/hello_world.jpeg
 tags: [hipertensión, roncar, cansancio]
 date: 2018-03-09 14:28
 ---
