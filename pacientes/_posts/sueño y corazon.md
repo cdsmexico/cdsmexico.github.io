@@ -8,7 +8,6 @@ tags: [hipertension, corazon, SAOS, apnea
 date: 2018-03-08 14:28
 ---
 
-
 El sueño es uno de los momentos más importantes del día. Durante este cuerpo y mente descansan. Es por esto que algunas enfermedades tienen repercusiones en el sueño. Así mismo algunas alteraciones del sueño pueden tener repercusiones en el cuerpo que se manifiestan como enfermedades. 
 
 **Dormir mal no está bien**
