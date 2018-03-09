@@ -1,11 +1,11 @@
 ---
 layout: post
 category: pacientes
-title: El Sueño
-subtitle: y el Corazón
-bigimg: /img/cuarto.jpg
-tags: [hipertension, corazon, SAOS, apnea]
-date: 2018-03-09 14:16
+title: Parasomnias 
+subtitle: ¿Qué son y cómo se tratan?
+bigimg: /img/parasomnia.jpg
+tags: [parasomina, sonambulo, pesadillas]
+date: 2018-03-08 14:28
 ---
 
 
@@ -23,4 +23,4 @@ Algunas posiciones podrían dificultar el sueño aún mas ya que le es mas difí
 
 **Corazón contento**
 
-Siempre se habla de cómo tener un corazón saludable. Existen muchas dietas que aseguran ser buenas para el corazón, rutinas de ejercicio que mejoran la salud cardiovascular, etc. Pero poco se habla sobre el efecto que tiene el sueño sobre la salud del Corazón. Ahora que sabemos lo importante que es el sueño para la salud cardiovascular es momento que hagamos algo al respecto.  Es importante antes de tomar alguna medida drástica consultar a un médico
+Siempre se habla de cómo tener un corazón saludable. Existen muchas dietas que aseguran ser buenas para el corazón, rutinas de ejercicio que mejoran la salud cardiovascular, etc. Pero poco se habla sobre el efecto que tiene el sueño sobre la salud del Corazón. Ahora que sabemos lo importante que es el sueño para la salud cardiovascular es momento que hagamos algo al respecto.  Es importante antes de tomar alguna medida drástica consultar a un médico.
