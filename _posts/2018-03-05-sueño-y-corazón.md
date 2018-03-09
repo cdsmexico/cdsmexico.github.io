@@ -5,7 +5,7 @@ title: El Sueño
 subtitle: y el Corazón
 bigimg: /img/cuarto.jpg
 image: /img/coracer.jpg
-tags: [hipertensión, roncar, cansancio]
+tags: [hipertensión, SAOS, sueño, apnea]
 date: 2018-03-09 14:28
 ---
 
