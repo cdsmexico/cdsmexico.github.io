@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sueño
+category: pacientes
+title: El Sueño
 subtitle: y el Corazón
 tags: [hipertensión, roncar, cansancio]
 ---
