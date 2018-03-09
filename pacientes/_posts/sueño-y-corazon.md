@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 category: pacientes
 title: El Sueño
 subtitle: y el Corazón
