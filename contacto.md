@@ -14,10 +14,10 @@ tags: [consulta, citas, contacto, correo, mail, telefono]
 ### Teléfono
 
 {: .box-note}
-**Dr. Herrea** 5534001659
+**Dr. Luis E.Hoyo** 7223941463
 
 {: .box-note}
-**Dr. Hoyo** 7223941463
+**Dr. Francisco J. Herrea** 5534001659
 
 ### e-mail
 
