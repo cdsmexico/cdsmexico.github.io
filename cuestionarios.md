@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cuestionarios
-#subtitle: 
+subtitle: y Escalas  
 bigimg: /img/encu.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
