@@ -31,7 +31,7 @@ navbar-links:
   Recursos:
     - Google: "https://google.com"
     - Estadisticas: "http://www.markdowntutorial.com/"
-    - Cuestionarios y Escalas: "x"
+    - Cuestionarios y Escalas: "cuestionarios"
     #- GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
 
