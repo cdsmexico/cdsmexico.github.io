@@ -2,10 +2,13 @@
 layout: post
 title: Cuestionarios
 #subtitle: 
+bigimg: /img/encu.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [Cuestionarios]
 ---
+
+
 
 {: .box-note}
 [**Cuestionario de Epworth**](https://form.jotform.co/80726132983864)
@@ -17,3 +20,5 @@ tags: [Cuestionarios]
 
 {: .box-note}
 [**Cuestionario de Berlin**]()
+
+
