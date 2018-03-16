@@ -15,7 +15,7 @@ tags: [Cuestionarios]
 
 
 {: .box-note}
-[**Escala SACS**]()
+[**Escala SACS**](https://form.jotform.co/80740913583863)
 
 
 {: .box-note}
