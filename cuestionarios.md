@@ -15,10 +15,10 @@ tags: [Cuestionarios]
 
 
 {: .box-note}
-[**Cuestionario de Pittsburgh**]()
+[**Escala SACS**]()
 
 
 {: .box-note}
-[**Cuestionario de Berlin**]()
+[**Cuestionario de Berlin**](https://form.jotform.co/80727821983870)
 
 
