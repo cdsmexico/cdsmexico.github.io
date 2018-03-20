@@ -1,9 +1,9 @@
 ---
 layout: post
 category: doctores
-title: 'Post de doctores'
-subtitle: 'Este es un post de doctores'
+title: 'Tema de interes'
+subtitle: 'tenemos que decidir uno'
 date: 2018-03-08 14:16
 ---
 
-si que lo es
+que sea de interes 
