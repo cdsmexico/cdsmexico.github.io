@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¿Quiénes somos? 
-subtitle: CDM México
+subtitle: CDS México
 ---
 
 **CDS México** somos un grupo de médicos mexicanos comprometidos con tu salud y bienestar.
