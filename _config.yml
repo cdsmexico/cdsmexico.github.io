@@ -42,7 +42,7 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # Esto solo sirve si no tienes el titulo de centro de diagnostico de sueño
-title-img: "/img/Logo_CDS_SinFondo.png"
+title-img: <img src="/img/Logo_CDS_SinFondo.png" width="40%">
 
 # --- Background colour/image options --- #
 
