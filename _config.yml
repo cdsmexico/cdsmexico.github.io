@@ -28,7 +28,8 @@ navbar-links:
   Soy Paciente: "pacientes/index.html"
   Acerca de CDS México: "aboutme"
   Contacto: "contacto"
-  Recursos:
+  Escalas: "cuestionarios"
+  #Recursos:
     - Google: "https://google.com"
     - Cuestionarios y Escalas: "cuestionarios"
     #- GitHub Pages: "https://pages.github.com/"
@@ -41,7 +42,7 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # Esto solo sirve si no tienes el titulo de centro de diagnostico de sueño
-title-img: "/img/logo.png"
+title-img: "/img/Logo_CDS_SinFondo.png"
 
 # --- Background colour/image options --- #
 
