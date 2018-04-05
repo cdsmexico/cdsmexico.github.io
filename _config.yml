@@ -23,7 +23,7 @@ description: Informacion sobre el diagnóstico y tratamiento de la Apnea del Sue
 
 # List of links in the navigation bar
 navbar-links:
-  #test: "FAQ"
+  test: "FAQ"
   FAQ: "FAQ"
   Soy Doctor: "doctores/index.html"
   Soy Paciente: "pacientes/index.html"
