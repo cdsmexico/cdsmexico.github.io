@@ -30,8 +30,8 @@ navbar-links:
   Contacto: "contacto"
   Escalas: "cuestionarios"
   #Recursos:
-    - Google: "https://google.com"
-    - Cuestionarios y Escalas: "cuestionarios"
+    #- Google: "https://google.com"
+    #- Cuestionarios y Escalas: "cuestionarios"
     #- GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
 
